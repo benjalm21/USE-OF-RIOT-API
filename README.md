@@ -1,5 +1,5 @@
 Extrayendo datos acerca del videojuego League of Legends videogame utilizando la API de Riot Games
-###Introduction
+Introduction
 
 League of Legends, comúnmente conocido como LOL es un videojuego multijugador de arena de batalla en línea(MOBA por sus siglas en ingles) desarrollado y publicado por riot games.En el juego, dos equipos de 5 jugadores luchan en un combate de jugador vs jugador (PVP), cada equipo ocupa y defiende su respectiva mitad del mapa, los equipos se identifican de la siguiente manera
 
