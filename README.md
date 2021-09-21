@@ -59,6 +59,5 @@ A continuación ejemplos de la información estática:
 Primero que nada para hacer la conexión con la API ejecutamos el siguiente código:
 
 Para el desarrollo de este escrito extraeré los datos de mi cuenta personal: “SquareHammer”.
-Ejecutamos el siguiente del cual obtendremos su perfil de invocador y
 
 
